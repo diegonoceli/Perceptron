@@ -1,7 +1,6 @@
-# Image Classifier
+# Neural network
 
-A program developed using Keras and Tensorflow for image classification.
-Using a dataset cats vs dogs https://www.kaagle.com/c/dogs-vs-cats
+Using deep learning to train a perceptron and make logic gates in addition to predicting results (using 'pima-indians-diabetes.csv.xlxs')
 
 ## Getting Started
 
@@ -15,12 +14,6 @@ $ pip install tensorflow
 then install Keras
 $ pip install keras
 
-
-## Running the tests
-
-Results after 15 epochs.
-
-![alt text](https://i.imgur.com/jQP6H4E.png)
 
 ## Authors
 
